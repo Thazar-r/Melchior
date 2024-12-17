@@ -16,16 +16,13 @@ I'm a Software Engineer passionate about building solutions that make life easie
 ### 📈 My Projects  
 Here are a few projects I’ve built:  
 1. **Financial Tracker**  
-   - Description: Tracks your income and expenses effectively.  
-   - Repository: [Link to Financial Tracker Repository]  
+   - Description: Tracks your income and expenses effectively.   
 
 2. **Recipe Menu**  
-   - Description: A web-based recipe management system.  
-   - Repository: [Link to Recipe Menu Repository]  
+   - Description: A web-based recipe management system.   
 
 3. **Study-Buddy**  
    - Description: An app for managing study schedules.  
-   - Repository: [Link to Study-Buddy Repository]  
 
 4 .**Moringa-Pair**
 - Descriptions: An application that automatically pairs students into study groups , and the teacher can view all study group history for each week
